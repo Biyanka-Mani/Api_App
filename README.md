@@ -1,24 +1,24 @@
-# README
+# Rails 7 API-Only Application 🌐
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple Ruby on Rails 7 application created to understand and explore the workings of an API-only application.
 
-Things you may want to cover:
+## Features
 
-* Ruby version
+- **API-Only:** Built using Rails 7 in API-only mode, focusing on backend development without views or frontend components.
+- **RESTful API:** Implements RESTful routes for basic CRUD operations.
+- **Lightweight:** Minimal setup with only the essential components needed for API development.
 
-* System dependencies
+## Getting Started
 
-* Configuration
+### Prerequisites
 
-* Database creation
+- **Ruby:** Ensure that Ruby is installed on your system.
+- **Rails:** Rails 7 or above should be installed.
 
-* Database initialization
+### Setup
 
-* How to run the test suite
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/username/rails7-api-app.git
+   cd rails7-api-app
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
